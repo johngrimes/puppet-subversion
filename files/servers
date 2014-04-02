@@ -1,0 +1,4 @@
+[global]
+http-compression = yes
+store-passwords = no
+store-plaintext-passwords = no
